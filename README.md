@@ -1,3 +1,4 @@
 # Calendar-Backend
 
-Add a SECRET_JWT_SEED
+Generqate SECRET_JWT_SEED
+Generqate DB_CNN
